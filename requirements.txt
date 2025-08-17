@@ -1,0 +1,14 @@
+# Core packages
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+
+# Deep Learning
+tensorflow>=2.14
+
+# Optional visualization
+matplotlib>=3.8
+seaborn>=0.12
+
+# Jupyter Notebook (if you use notebooks)
+notebook>=7.0
